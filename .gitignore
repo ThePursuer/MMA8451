@@ -1,0 +1,7 @@
+CMakeCache.txt
+CMakeFiles/
+MMA8451_example
+Makefile
+cmake_install.cmake
+*.so
+.vscode/
